@@ -676,6 +676,11 @@ button:hover{
     top: 466px;
     left: 544px;
 }
+.close-btn{
+    color: black;
+    top: -20px !important;
+    right: -71px !important;
+}
 
 /* end section 8 */
  
